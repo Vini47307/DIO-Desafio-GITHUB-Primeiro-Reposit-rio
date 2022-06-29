@@ -19,3 +19,7 @@ Desafio do projeto GIT/GITHUB
 🪙 **Crypto crisis: how digital currencies went from boom to collapse -** Yuri Popovich had watched his neighbours’ houses burn down to the ground in Kyiv and he needed a safe place to put his money. So he did what millions of amateur investors have done in recent years: he turned to cryptocurrency.“It was impossible and unsafe to store funds in the form of banknotes. There was a big risk of theft, we also had cases of looting. Therefore, I trusted a ‘stable and reliable’ cryptocurrency. Not for the purpose of speculating, but simply to save,” he says. [Continue reading ...](https://www.theguardian.com/technology/2022/jun/29/crypto-crisis-digital-currencies-boom-collapse-bitcoin-terra)
 
 🏎️ **Lewis Hamilton: Nelson Piquet apologises for 'ill-thought-out' racially abusive language about British driver -** Nelson Piquet says his racially abusive remark about Lewis Hamilton was "ill thought out". Piquet used a racially offensive term in referring to Hamilton on a Brazilian podcast that came to light this week. The 69-year-old said he "strongly condemned any suggestion the word was used by me with the aim of belittling a driver because of his skin colour"."I apologise wholeheartedly to anyone that was affected, including Lewis," three-time world champion Piquet said. [Continue reading ...](https://www.bbc.com/sport/formula1/61983866)
+
+
+
+🌎 **Visit DIO website [clicking here](https://web.dio.me/home)**
