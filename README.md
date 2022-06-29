@@ -1,4 +1,4 @@
-# Repositório do Desafio DIO GITHUB
+**# Repositório do Desafio DIO GITHUB**
 Desafio do projeto GIT/GITHUB
 
-*June 29, 2022 - Daily News Letter* 
+**June 29, 2022 - Daily News Letter**
